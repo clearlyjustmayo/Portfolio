@@ -4,7 +4,7 @@ Blog Site - Built via Jekyll
 
 ## Blog site
 
-This site has multiple purposes, originally made to have a place to post my photography and also blog about stuff. However, also now made to be a place to list projects and learning progress on different languages. Currently planning on to learn about ReactJS and also Unity/C++.
+This site has multiple purposes, originally made to have a place to post my photography and also blog about stuff. However, also now made to be a place to list projects and learning progress on different languages. Currently planning on to learn about ReactJS and also Unity(C# Scripting)/C++.
 
 
 Copyright (c) 2019 Leon Chiew
