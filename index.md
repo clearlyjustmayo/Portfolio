@@ -1,18 +1,19 @@
 ---
 layout: home
-title: Home
+title: Welcome
 ---
 
-#Welcome
+{page.title}
 
 Hello, I am Leon, a graduated programming student. Eager to step into the software space, to apply the knowledge learnt in University, previous work experience and social skills into a career position of my field of expertise.
-Basic Introduction ([CV][cv])
 
-##Education
+## Basic Introduction ([CV][cv])
 
 ---
 
-###University of Auckland
+## Education
+
+### University of Auckland
 
 •	Bachelor of Science in Computer Science (2018)
 •	Certificate of Language in Japanese (2016)
@@ -21,7 +22,7 @@ Basic Introduction ([CV][cv])
 
 ---
 
-##Skills
+## Skills
 
 •	Language: English, native Chinese, conversational Japanese
 •	Java
