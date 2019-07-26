@@ -1,10 +1,11 @@
 # Portfolio
-Blog Site - Built via Jekyll
+Built via Jekyll
 
 
-## Blog site
+## Introduction
 
-This site has multiple purposes, originally made to have a place to post my photography and also blog about stuff. However, also now made to be a place to list projects and learning progress on different languages. Currently planning on to learn about ReactJS and also Unity(C# Scripting)/C++.
+This is my portfolio for projects I've done and are in progress.
+Currently learning ReactJS, C++ and SQL.
 
 
 Copyright (c) 2019 Leon Chiew
