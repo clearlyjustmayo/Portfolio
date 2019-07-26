@@ -7,7 +7,7 @@ title: Welcome
 
 Hello, I am Leon, a graduated programming student. Eager to step into the software space, to apply the knowledge learnt in University, previous work experience and social skills into a career position of my field of expertise.
 
-## Basic Introduction([Click Here][cv])
+### Basic Introduction([Click Here][cv])
 ### Education
 ---
 #### University of Auckland
@@ -17,7 +17,8 @@ Hello, I am Leon, a graduated programming student. Eager to step into the softwa
 •	Certificate of Language in Japanese (2016)
 
 ---
-## Skills
+### Skills
+
 •	Language
 
   • English
