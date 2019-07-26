@@ -19,13 +19,11 @@ Hello, I am Leon, a graduated programming student. Eager to step into the softwa
 ---
 ### Skills
 
-•	Language
+• English
 
-  • English
+• native Chinese
 
-  • native Chinese
-
-  • conversational Japanese
+• conversational Japanese
 
 •	Java
 
